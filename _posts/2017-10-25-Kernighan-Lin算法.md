@@ -2,7 +2,7 @@
 title: Kernighan-Lin 算法描述
 description: 对该算法简单描述
 categories:
- - 图论 
+ - 图论
 tags: algorithm cv
 ---
 ## 目的

@@ -2,8 +2,8 @@
 title: Kernighan-Lin 算法描述
 description: 对该算法简单描述
 categories:
- - 图论
-tags: algorithm
+ - 图论 
+tags: algorithm cv
 ---
 ## 目的
 本算法是求解二分图的一种贪心算法。G = (V, E)假设图G的节点为V， 带权值的边为E，算法的目的就是要在G中寻找一种分割将图分解为两个相同
@@ -35,3 +35,4 @@ function Kernighan-Lin(G(V,E)):
     until (g_max <= 0)
   return G(V,E)
 ```
+---
